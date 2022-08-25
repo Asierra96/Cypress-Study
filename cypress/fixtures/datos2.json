@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Andres",
+        "email": "test@cypress.io",
+        "dir1": "calle falsa 123",
+        "dir2": "avenida siempre viva"
+    },
+
+    {
+        "name": "Felipe",
+        "email": "test1@cypress.io",
+        "dir1": "sprinfield town 123",
+        "dir2": "Moes house"
+    },
+
+    {
+        "name": "Linda",
+        "email": "test2@cypress.io",
+        "dir1": "Mr Burns house 123",
+        "dir2": "Montgomery Burns"
+    },
+
+    {
+        "name": "Laura",
+        "email": "test3@cypress.io",
+        "dir1": "Kwicky Mark 322",
+        "dir2": "Apus House"
+    },
+
+    {
+        "name": "Mauricio",
+        "email": "test4@cypress.io",
+        "dir1": "Homer House",
+        "dir2": "avenida siempre viva 123"
+    }
+]
